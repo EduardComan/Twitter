@@ -1,0 +1,57 @@
+[Info][2022-01-18 05:32:00] LOGIN REQUEST
+[Info][2022-01-18 05:32:00] LOGIN USER: Alex TRUE
+[Info][2022-01-18 05:32:01] 2 REQUEST FOLLOWANDFOLLOWING NUMBERS
+[Info][2022-01-18 05:32:06] 1 REQUEST FOLLOWANDFOLLOWING NUMBERS
+[Info][2022-01-18 05:32:06] 2 REQUEST FOLLOWANDFOLLOWING NUMBERS 1
+[Info][2022-01-18 05:32:07] 1 REQUEST FOLLOWANDFOLLOWING NUMBERS
+[Info][2022-01-18 05:32:07] 2 REQUEST FOLLOWANDFOLLOWING NUMBERS 1
+[Info][2022-01-18 06:07:00] Data in User inserted succesfully
+[Info][2022-01-18 06:13:49] Data in User inserted succesfully
+[Info][2022-01-22 14:43:37] LOGIN REQUEST
+[Info][2022-01-22 14:43:37] LOGIN USER: Leo TRUE
+[Info][2022-01-22 14:43:41] Data in Post inserted succesfully
+[Info][2022-01-22 14:43:57] Data in Dislike not deleted
+[Info][2022-01-22 14:43:57] Data in Like inserted succesfully
+[Info][2022-01-22 14:43:57] Data in Like not deleted
+[Info][2022-01-22 14:43:57] Data in Dislike inserted succesfully
+[Info][2022-01-22 14:43:57] Data in Dislike not deleted
+[Info][2022-01-22 14:43:57] Data in Like inserted succesfully
+[Info][2022-01-22 14:43:58] Data in Like not deleted
+[Info][2022-01-22 14:43:58] Data in Dislike inserted succesfully
+[Info][2022-01-22 14:43:58] Data in Dislike not deleted
+[Info][2022-01-22 14:43:58] Data in Like inserted succesfully
+[Info][2022-01-22 14:43:58] Data in Like not deleted
+[Info][2022-01-22 14:43:58] Data in Dislike inserted succesfully
+[Info][2022-01-22 14:44:04] 2 REQUEST FOLLOWANDFOLLOWING NUMBERS
+[Info][2022-01-22 14:44:04] 1 REQUEST FOLLOWANDFOLLOWING NUMBERS 2
+[Info][2022-01-22 14:44:04] 2 REQUEST FOLLOWANDFOLLOWING NUMBERS
+[Info][2022-01-22 14:44:04] 1 REQUEST FOLLOWANDFOLLOWING NUMBERS 2
+[Info][2022-02-22 22:11:12] LOGIN REQUEST
+[Info][2022-02-22 22:11:12] LOGIN USER: Leo TRUE
+[Info][2022-02-22 22:11:23] Data in Post inserted succesfully
+[Info][2022-02-22 22:11:35] Data in Like inserted succesfully
+[Info][2022-02-22 22:11:36] Data in Like not deleted
+[Info][2022-02-22 22:11:36] Data in Like inserted succesfully
+[Info][2022-02-22 22:11:36] Data in Like not deleted
+[Info][2022-02-22 22:11:36] Data in Like inserted succesfully
+[Info][2022-02-22 22:11:36] Data in Like not deleted
+[Info][2022-02-22 22:11:37] Data in Dislike inserted succesfully
+[Info][2022-02-22 22:11:38] Data in Dislike not deleted
+[Info][2022-02-22 22:11:38] Data in Dislike inserted succesfully
+[Info][2022-02-22 22:11:38] Data in Dislike not deleted
+[Info][2022-02-22 22:11:39] Data in Dislike inserted succesfully
+[Info][2022-02-22 22:11:39] Data in Dislike not deleted
+[Info][2022-02-22 22:11:39] Data in Like inserted succesfully
+[Info][2022-02-22 22:11:40] Data in Like not deleted
+[Info][2022-02-22 22:11:40] Data in Dislike inserted succesfully
+[Info][2022-02-22 22:11:41] Data in Dislike not deleted
+[Info][2022-02-22 22:11:41] Data in Like inserted succesfully
+[Info][2022-02-22 22:11:41] Data in Like not deleted
+[Info][2022-02-22 22:11:41] Data in Dislike inserted succesfully
+[Info][2022-02-22 22:11:42] Data in Dislike not deleted
+[Info][2022-02-22 22:11:42] Data in Like inserted succesfully
+[Info][2022-02-22 22:11:42] Data in Like not deleted
+[Info][2022-02-22 22:11:42] Data in Dislike inserted succesfully
+[Info][2022-02-22 22:11:42] Data in Dislike not deleted
+[Info][2022-02-22 22:11:42] Data in Like inserted succesfully
+[Info][2022-02-22 22:11:50] Data in Comment inserted succesfully
